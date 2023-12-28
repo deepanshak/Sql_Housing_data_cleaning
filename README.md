@@ -194,8 +194,7 @@ Drop column SaleDate
 The updated data is more standardize and ready to be analysed.
 <img width="925" alt="sql data cleaning" src="https://github.com/deepanshak/Sql_Housing_data_cleaning/assets/139687677/a8c2bc64-4d76-4102-9b76-cccdf3e25205">
 
-<img width="533" alt="Screenshot 2023-12-28 211637" src="https://github.com/deepanshak/Sql_Housing_data_cleaning/assets/139687677/0d813dcd-1972-40bd-adce-a0851aa67864">
-
+<img width="533" alt="Screenshot 2023-12-28 211637" src="https://github.com/deepanshak/Sql_Housing_data_cleaning/assets/139687677/0d813dcd-1972-40bd-adce-a0851aa678
 
 
 
